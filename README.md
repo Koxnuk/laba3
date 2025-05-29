@@ -6,6 +6,10 @@
 на данных снимках экрана мы можем наблюдать что кеширование происходит корректно так как скорость обработки запроса стала на порядок выше
 
 
-![image](https://github.com/user-attachments/assets/f6f0db37-49c8-4892-bdd5-cca7c2283a7d)
+![image](https://github.com/user-attachments/assets/7ec6d852-99bf-4d3b-9f42-12e1902806b7)
 
-![image](https://github.com/user-attachments/assets/3044fe0c-6e75-4349-834d-ccd9bd1da8b7)
+
+
+
+![image](https://github.com/user-attachments/assets/570783cd-f491-4ea0-84a7-2f60cccb6aff)
+
